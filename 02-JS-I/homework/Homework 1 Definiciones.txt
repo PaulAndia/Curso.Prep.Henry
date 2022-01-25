@@ -1,0 +1,14 @@
+•Variables:  	Elemento que almacena un valor (dato o información) que se le asigna.
+
+•Strings:	Son cadenas o secuencia de caracteres. Las cadenas pueden almacenar caracteres individuales, 
+		palabras, y oraciones completas. Representan datos textuales y van entre comillas.
+
+•Funciones (argumentos, return): Una función es una instrucción que ejecuta una tarea específica. 
+	-Los argumentos de una función son valores designados específicos para que la función los utilice 
+	y ejecute la tarea con esos valores. 
+	- El Return en una función finaliza la ejecución de la función y devuelve la expresión establecida en la función.
+
+•Declaraciones if: Ejecuta una tarea si una determinada condición es verdadera.
+
+•Valores booleanos (true, false): Son valores que expresan verdad. Verdad o Falso. (cumple/NoCumple) 
+Son variables boleanas cuando se les asigna contenido verdadro o falso. Almacenan información de tipo Sí o No.
