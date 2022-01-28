@@ -1,0 +1,2 @@
+ARRAYS: Un array permite almacenar un conjunto de datos. Es similar a una lista de datos ordenados, y se tiene acceso a los mismos
+	por medio de un índice que indica su posición.
