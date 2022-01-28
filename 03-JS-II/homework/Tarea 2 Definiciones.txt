@@ -1,5 +1,0 @@
-- for: Es una sentencia que ejecuta una tarea hasta que una condición establecida sea falsa. 
-	Permite hacer tareas repetitivas mientras una condición es verdadera.
-- && (Y): Operador lógico que representa "y" de inclusión. El operador devuelve VERDADERO si los operadores son verdaderos.
-- || (OR): Operador lógico que represente "o" . Solo devuelve un valor o es verdadero o es falso, pero nunca ambos.
-- ! (NOT): Es un operador que devuelve siempre el valor CONTRARIO de un determinado valor.
