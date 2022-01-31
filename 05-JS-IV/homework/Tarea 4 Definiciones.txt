@@ -1,0 +1,19 @@
+- Objetos: Un objeto es una colección de propiedades de una variable definida. Estas propiedades se llaman métodos. 
+ Por ejemplo, haciendo una analogía un objeto puede ser una persona, esta persona tiene propiedades o características
+ como ser, nombre, edad, altura, peso, edad, nacionalidad, etc. Todos estos datos son denominado métodos del objeto persona.
+
+- Propiedades: Son las características propias del objeto, y pueden ser todo tipo de datos, strings, enteros, arreglos,
+funciones, hasta incluso otros objetos declarados.
+
+- Métodos: Técnicamente las propiedades de un objeto se denominan métodos. Para invocar los métodos de un objeto se emplea
+la siguiente sintaxis: persona.nombre, persona.peso, ó persona['nombre'], persona['edad']. Ambas pueden ser empleadas.
+
+- Bucle for...in: Este tipo de bucle es empleado para recorrer por las diferentes propiedades de un objeto, ya que
+a diferencia de los arreglos, los objetos no cuentan con índices [i] por lo que un for convencional no serviría. Por esta
+razón el bucl for...in nos permite recorrer las diferentes propiedades del objeto.
+
+- Notación de Puntos y Notación de Corchetes: Ambas notaciones son empleadas para invocar las propiedades de un objeto.
+Para invocar de manera rápida una propiedad y conocer su valor lo ideal es emplear la notación de puntos, persona.edad.
+Sin embargo, para invocar propiedades que están referenciadas por argumentos, ejemplo en una función, lo ideal es emplear 
+la notación de corchetes.  
+
