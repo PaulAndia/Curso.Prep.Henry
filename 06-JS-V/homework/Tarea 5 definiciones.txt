@@ -1,0 +1,8 @@
+- prototype:  Este elemento nos permite crear un método "personalizado"  de una clase, es decir un método que nos
+permita invocar de manera rápida lo que necesitamos, PERO sin necesidad de que este método figure en las propiedades
+del objeto o instancia creada. Este método creado, solo figura "internamente" en el prototipo del objeto y no es 
+mostrado en las propiedades de una instancia invocada. 
+
+- Constructores: Los constructores son los que hacen referencia y donde se definen las propiedades de las instancias que
+serán creadas. A través del mismo se pueden establecer las propiedades comunes de los objetos que serán creados con la
+clase definida.
