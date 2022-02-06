@@ -1,0 +1,4 @@
+- FUNCIONES CALLBACKS: 	Los callbacks nos permiten invocar una función dentro de otra función. Es decir podemos
+colocar una función ya establecida como argumento de otra función ó tambien puede ser una función anónima. Las funciones 
+callback se ejecutan siempre que una acción previa ha tenido lugar. Por ejemplo, si se define una función A como argumento
+de una función B, siempre que se llame B, esta va a ejecutar A, mientras no se ejecuta B, A no ocurre.
